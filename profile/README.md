@@ -35,7 +35,18 @@ InSpectra is an AI-driven Web Application designed for efficient and accurate da
 ---
 
 ## 📝 License
-This project is licensed under the **MIT License**. For more details, see the official [MIT License documentation](https://opensource.org/license/mit/).  
+
+This project is licensed under the **GNU Affero General Public License v3.0 (AGPLv3)**.
+
+This means that any modified versions of this software, and any software that interacts with it over a network, must also be distributed under the AGPLv3. This ensures that users retain control over the software, even when it's accessed remotely.
+
+**Key points:**
+
+* **Network Use:** If you run a modified version of this software on a server and allow users to interact with it over a network, you must release the source code of your modified version.
+* **Copyleft:** Any derivative works must also be licensed under the AGPLv3.
+* **Source Code Availability:** You must provide the source code to users who interact with the software over a network.
+
+For more details, see the official [GNU AGPLv3 License](https://www.gnu.org/licenses/agpl-3.0.html).
 
 ---
 
