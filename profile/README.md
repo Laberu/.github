@@ -3,6 +3,8 @@
 ## 📖 About InSpectra
 InSpectra is an AI-driven Web Application designed for efficient and accurate damage detection in 3D models of infrastructure. By leveraging advancements in integrated deep learning technologies, the system addresses the challenges of inspecting large-scale structures.
 
+🌐 **Explore More:** [InSpectra Website](https://inspectra.site)  
+
 ---
 
 ## 🚀 Features
@@ -33,7 +35,7 @@ InSpectra is an AI-driven Web Application designed for efficient and accurate da
 ---
 
 ## 📝 License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the **MIT License**. For more details, see the official [MIT License documentation](https://opensource.org/license/mit/).  
 
 ---
 
