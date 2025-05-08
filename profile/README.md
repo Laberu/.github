@@ -21,7 +21,6 @@ InSpectra is an AI-driven Web Application designed for efficient and accurate da
 - **Backend**: Node.JS, Python
 - **Database**: MongoDB, MySQL
 - **Authentication**: Google Authentication
-- **Model**: To be added
 ---
 
 ## 📖 How It Works
